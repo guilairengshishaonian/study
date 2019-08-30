@@ -1,4 +1,5 @@
 # :boy: Lsx归来仍是少年:
+![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
 1.  [symfony](src/symfony/README.md "symfony") 
 	- [Symfony Guide 入门指南](src/symfony/Guide/README.md)
 	- [Basic](src/symfony/Basic/README.md) 基础和常用
