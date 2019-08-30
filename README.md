@@ -1,4 +1,4 @@
-# :fox: Lsx归来仍是少年:
+# :dog: Lsx归来仍是少年:
 1.  [symfony](src/symfony/README.md "symfony") 
 	- [Symfony Guide 入门指南](src/symfony/Guide/README.md)
 	- [Basic](src/symfony/Basic/README.md) 基础和常用
