@@ -1,5 +1,5 @@
-# :boy: Lsx归来仍是少年:
-![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
+# :boy: 归来仍是少年:
+![baidu](https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2858082968,3541210467&fm=26&gp=0.jpg "我的微信：x756388565")
 1.  [symfony](src/symfony/README.md "symfony") 
 	- [Symfony Guide 入门指南](src/symfony/Guide/README.md)
 	- [Basic](src/symfony/Basic/README.md) 基础和常用
