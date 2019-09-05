@@ -28,8 +28,8 @@
         <entry file="file://$PROJECT_DIR$/src/Go/windows/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="723">
-                <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+              <first_editor relative-caret-position="792">
+                <caret line="39" column="24" lean-forward="true" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
               </first_editor>
               <second_editor />
             </state>
@@ -40,8 +40,8 @@
         <entry file="file://$PROJECT_DIR$/src/symfony/Basic/Basic.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="92">
-                <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+              <first_editor relative-caret-position="115">
+                <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="11" />
               </first_editor>
               <second_editor />
             </state>
@@ -147,12 +147,12 @@
       <option name="presentableId" value="Default" />
       <updated>1567149597848</updated>
       <workItem from="1567149599270" duration="2289000" />
-      <workItem from="1567654957715" duration="1151000" />
+      <workItem from="1567654957715" duration="1225000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3440000" />
+    <option name="totallyTimeSpent" value="3514000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -220,8 +220,8 @@
     <entry file="file://$PROJECT_DIR$/src/symfony/Basic/Basic.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="92">
-            <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+          <first_editor relative-caret-position="115">
+            <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="11" />
           </first_editor>
           <second_editor />
         </state>
@@ -230,8 +230,8 @@
     <entry file="file://$PROJECT_DIR$/src/Go/windows/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="723">
-            <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+          <first_editor relative-caret-position="792">
+            <caret line="39" column="24" lean-forward="true" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
           </first_editor>
           <second_editor />
         </state>
