@@ -441,6 +441,7 @@
         - [github.com/symfony/css-selector](https://github.com/symfony/css-selector) The CssSelector component converts CSS selectors to XPath expressions.
         - [github.com/owner888/phpspider](https://github.com/owner888/phpspider)
     - Go
+        - [go 相关](src/Go/windows/README.md)  go的相关资料
         - [github.com/gocolly/colly](https://github.com/gocolly/colly) Elegant Scraper and Crawler Framework for Golang 
         - [github.com/henrylee2cn/pholcus](https://github.com/henrylee2cn/pholcus) Pholcus is a distributed, high concurrency and powerful web crawler software.
         - [github.com/PuerkitoBio/gocrawl](https://github.com/PuerkitoBio/gocrawl) Polite, slim and concurrent web crawler.
