@@ -46,32 +46,51 @@
    - 运算
         两个不同的类型 不能运算
    - 字符串
+   
         package main
            
         import (
          "fmt"
         )
+        
         //字符串遍历   
         func main() {
         		s := "我是中国人"
-        		for _, v := range s{z
+        		
+        		for _, v := range s {
+        		
         			fmt.Printf("%c", v)
         		}
         	}
+        	
         []byte  修改字符串中的字节
+        
         []rune  修改字符串中的字符zcx
+        
         strings.count  统计出现的频率
+        
         strings.containsAny  strings.contains  子字符串包含
+        
         strings.index  ASCII索引
+        
         strings.indexRune  非ASCII 索引
+        
         strings.replace  字符串替换 5个参数 strings.replace(a,b,c,d) a:源字符串 b：被替换的内容 c:替换的内容 d:匹配到第几个
+        
         len([]rune) 统计字符数量
+        
         utf8.RuneCountInString  
+        
         strings.ToLower 字符全部转换为小写
+        
         strings.ToUpper 字符全部转换为大写
+        
         strings.trime 修剪 
+        
         strings.split 分割
+        
         swap 值交换
+        
    - 流程控制
     - 条件语句
         
