@@ -47,7 +47,7 @@
         两个不同的类型 不能运算
    - 字符串
    
-        package main
+            package main
                 
         	import (
         		"fmt"
