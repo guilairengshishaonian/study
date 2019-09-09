@@ -5,17 +5,20 @@
    - package main 包归属 package关键字 main 执行程序
    - import 要导入的代码包
    - 示例  
+   
         
         package main
-        
-        import (
-        	"fmt"
-        )
-        
-        func main() {
-        	fmt.Println("hello, world")
-        }
-        注： println "P" 严格区分大小写
+            
+            import (
+                "fmt"
+            )
+            
+            func main() {
+            
+                fmt.Println("hello, world")
+            }
+            
+            注： println "P" 严格区分大小写
    - go version 查看go版本
    - go help 查看帮助命令
    - go get 语言包安装 
@@ -49,16 +52,16 @@
    
             package main
                 
-        	import (
-        		"fmt"
-        	)
-        	
-        	func main() {
-        		s := "爱情小飞机，谁撞谁懵逼！"
-        		for _, v := range s{
-        			fmt.Printf("%c", v)
-        		}
-        	}
+                import (
+                    "fmt"
+                )
+                
+                func main() {
+                    s := "爱情小飞机，谁撞谁懵逼！"
+                    for _, v := range s{
+                        fmt.Printf("%c", v)
+                    }
+                }
         	
         []byte  修改字符串中的字节
         
