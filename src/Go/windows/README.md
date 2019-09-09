@@ -56,9 +56,7 @@
         //字符串遍历   
         func main() {
         		s := "我是中国人"
-        		
         		for _, v := range s {
-        		
         			fmt.Printf("%c", v)
         		}
         	}
