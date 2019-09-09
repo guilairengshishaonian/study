@@ -48,20 +48,15 @@
    - 字符串
    
         package main
-           
-        import (
-         "fmt"
-        )
-        
-        //字符串遍历  
-         
-        func main() {
-        		s := "我是中国人"
-        		
-        		for _, v := range s {
-        		
+                
+        	import (
+        		"fmt"
+        	)
+        	
+        	func main() {
+        		s := "爱情小飞机，谁撞谁懵逼！"
+        		for _, v := range s{
         			fmt.Printf("%c", v)
-        			
         		}
         	}
         	
