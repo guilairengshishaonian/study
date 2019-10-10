@@ -29,6 +29,10 @@
         php bin/console doctrine:schema:validate
         更新enity中的set和get
         php bin/console doctrine:generate:entities SchedulingBundle
+        创建多库
+        php bin/console doctrine:database:create --connection=rtu
+        更新多库
+        php bin/console doctrine:schema:update --force --em=rtu
         创建时间转换
         $val->getCreateAt()->format('Y-m-d H:i:s')
 - 生成crud操作代码
