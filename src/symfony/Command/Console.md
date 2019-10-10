@@ -21,9 +21,16 @@
 - 生成bundle
 		
 		php bin/console generate:bundle
+		php bin/console generate:bundle --namespace=xxxbundle --format=yml
 - 生成Entity
 
 		php bin/console doctrine:generate:entity
+		执行更新数据库
+        php bin/console doctrine:schema:validate
+        更新enity中的set和get
+        php bin/console doctrine:generate:entities SchedulingBundle
+        创建时间转换
+        $val->getCreateAt()->format('Y-m-d H:i:s')
 - 生成crud操作代码
 		
 		php bin/console doctrine:generate:crud
