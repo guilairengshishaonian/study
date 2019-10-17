@@ -39,8 +39,15 @@
 		
 		php bin/console doctrine:generate:crud
 - 启动redis
+
 		/usr/local/redis
+		
 		./bin/redis-server ./conf/redis.conf
+		
+- 路由跳转		
+		 $url = $this->router->generate('admin_homepage');
+                
+         return new RedirectResponse($url);
 - 查看service的列表
 
 		php bin/console  debug:container
