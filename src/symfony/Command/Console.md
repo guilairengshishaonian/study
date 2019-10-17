@@ -45,6 +45,7 @@
 		./bin/redis-server ./conf/redis.conf
 		
 - 路由跳转		
+
 		 $url = $this->router->generate('admin_homepage');
                 
          return new RedirectResponse($url);
