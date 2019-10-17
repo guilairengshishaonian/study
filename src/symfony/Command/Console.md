@@ -38,6 +38,9 @@
 - 生成crud操作代码
 		
 		php bin/console doctrine:generate:crud
+- 启动redis
+		/usr/local/redis
+		./bin/redis-server ./conf/redis.conf
 - 查看service的列表
 
 		php bin/console  debug:container
