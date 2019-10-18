@@ -11,6 +11,8 @@
 		
 		php bin/console cache:clear
 		php bin/console cache:clear --env=prod --no-debug  //清除生产环境的缓存
+		
+		php bin/console doctrine:cache:clear-metadata //清除数据库缓冲
 
 	The cache:clear command doesn't clear the Doctrine caches.  
 	clear the Doctrine caches, use:
