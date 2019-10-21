@@ -42,6 +42,8 @@
 		php bin/console doctrine:generate:crud
 - 启动redis
 
+        http://note.so1234.top/symfony/redis.html
+
 		/usr/local/redis
 		
 		./bin/redis-server ./conf/redis.conf
