@@ -40,6 +40,23 @@
 - 生成crud操作代码
 		
 		php bin/console doctrine:generate:crud
+- post 请求接口
+        $client = $this->container->get('guzzle.client.api_rtu');
+                $params =  [
+                'uri' => 'api/data/redis',
+                'form_params' => [
+                    'app_id' => '1099700001',
+                    'app_token' => '078c3067fcf7263fde8d6adc667dea9f',
+                ]
+            ];
+                $response = $client->post($params['uri'], [
+                    'form_params' => $params['form_params'],
+                ]);
+                if (200 == $response->getStatusCode()) {
+                    $string = (string) $response->getBody();
+                    $result = \GuzzleHttp\json_decode($string, true);
+                    $keys = $result['data'];
+                }
 - 启动redis
 
         http://note.so1234.top/symfony/redis.html
