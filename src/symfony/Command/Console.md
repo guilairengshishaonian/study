@@ -41,6 +41,7 @@
 		
 		php bin/console doctrine:generate:crud
 - post 请求接口
+
         $client = $this->container->get('guzzle.client.api_rtu');
                 $params =  [
                 'uri' => 'api/data/redis',
