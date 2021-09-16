@@ -281,3 +281,13 @@
         - [github.com/golang/oauth2](https://github.com/golang/oauth2)
         - [github.com/dexidp/dex](https://github.com/dexidp/dex)
         - [github.com/ory/fosite](https://github.com/ory/fosite)
+        
+学习资料 
+   -  [Nginx资料](http://www.imooc.com/wiki/nginxlesson/apache.html)
+   -  [未来服务器端编程语言GO](https://github.com/0voice/Introduction-to-Golang#-%E8%B5%84%E6%96%99%E5%8C%85)
+   -  [人人学习GO](http://7php.cn/)
+    
+33. 各对比分析
+    -  [Nginx 与 Apache 对比](src/contrastive/nginx.md)
+      
+    
