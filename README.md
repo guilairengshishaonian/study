@@ -295,6 +295,7 @@
 	-  [视频地址](https://www.youtube.com/watch?v=iIQuRr4Bncw)
      -------------------
          wget -O openvpn.sh https://get.vpnsetup.net/ovpn
+		 chmod -R 777 openvpn.sh
          sudo bash openvpn.sh --auto
          备用脚本地址：
          https://github.com/hwdsl2/openvpn-install/raw/master/openvpn-install.sh

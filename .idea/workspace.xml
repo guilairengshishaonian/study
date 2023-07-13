@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62034f5d-6894-4abe-b5df-bb9dd7bae382" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="62034f5d-6894-4abe-b5df-bb9dd7bae382" name="Default Changelist" comment="update openVpn、ascribe" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -116,7 +113,7 @@
       <workItem from="1598944616277" duration="148000" />
       <workItem from="1623148074061" duration="911000" />
       <workItem from="1631775189850" duration="1383000" />
-      <workItem from="1689215025780" duration="621000" />
+      <workItem from="1689215025780" duration="917000" />
     </task>
     <task id="LOCAL-00001" summary="update searching">
       <created>1623148972228</created>
@@ -125,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623148972229</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update openVpn、ascribe">
+      <created>1689215919487</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1689215919487</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -161,7 +165,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update searching" />
-    <option name="LAST_COMMIT_MESSAGE" value="update searching" />
+    <MESSAGE value="update openVpn、ascribe" />
+    <option name="LAST_COMMIT_MESSAGE" value="update openVpn、ascribe" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Go/base64.md">
