@@ -289,5 +289,29 @@
     
 33. 各对比分析
     -  [Nginx 与 Apache 对比](src/contrastive/nginx.md)
+
+34. 搭建openVPn
+    - OpenVPN 服务器一键安装脚本
+	-  [视频地址](https://www.youtube.com/watch?v=iIQuRr4Bncw)
+     -------------------
+         wget -O openvpn.sh https://get.vpnsetup.net/ovpn
+         sudo bash openvpn.sh --auto
+         备用脚本地址：
+         https://github.com/hwdsl2/openvpn-install/raw/master/openvpn-install.sh
+         https://gitlab.com/hwdsl2/openvpn-install/-/raw/master/openvpn-install.sh
+         对于有外部防火墙的服务器，请为 VPN 打开 UDP 端口 1194
+         -------------------
+         OpenVPN 客户端（全平台）:https://openvpn.net/vpn-client/
+         安卓OpenVPN：https://apkcombo.com/tw/openvpn/net.openvpn.openvpn/download/apk
+         -------------------
+         视频中的OpenVPN节点配置文件：https://t.me/binghequanzi/978?comment=8577
+
+34. 广告渠道监测
+	-  [头条](https://open.oceanengine.com/labels/7/docs/1696710656359439)
+	-  [快手](https://docs.qingque.cn/d/home/eZQCUW5cBE39_ZlarHp_BWWhP?identityId=1oEC7Euefid#section=h.9cnktvm7ek5t)
+	-  [appsFlyer](https://zh.dev.appsflyer.com/hc/reference/post_s2s_inappevent)
+	-  [热云](http://newdoc.trackingio.com/%E6%B8%A0%E9%81%93%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.html)
+
+
       
     
